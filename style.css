@@ -30,7 +30,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: hsl(0, 0%, 100%);
-    border: solid hsl(0, 0%, 7%) 2px;
+    border: solid hsl(0, 0%, 7%) 1px;
     border-radius: 15px;
     height: 520px;
     width: 380px;
@@ -50,6 +50,7 @@ body {
     margin: 0px 20px;
     border-radius: 3px;
     font-weight: 800;
+    font-size: 14px;
 }
 
 .date {
@@ -58,13 +59,13 @@ body {
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 24px;
     font-weight: 800;
     margin: 10px 20px;
 }
 
 .text {
-    margin: 15px 20px;
+    margin: 18px 20px;
     color: hsl(0, 0%, 42%);
 }
 
@@ -75,12 +76,12 @@ h1 {
 }
 
 .userimg {
-    height: 30px;
-    width: 30px;
+    height: 28px;
+    width: 28px;
 }
 
 .user {
-    padding: 5px 10px;
+    padding: 3px 10px;
     font-weight: 800;
     font-size: 14px;
 }
